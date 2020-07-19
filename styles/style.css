@@ -863,7 +863,7 @@ button.btn:active{
     }
 }
 
-@media (max-width: 320px){
+@media(max-width:322px){
     .covid{
         padding-left: 60px;
         padding-right: 60px;
@@ -1014,7 +1014,7 @@ button.btn:active{
 
     .watch_item-9 .figure {
         left: 33%;
-        top: -2%
+        top: -2%;
     }
 
     .watch_item-10 .figure {
@@ -1024,19 +1024,20 @@ button.btn:active{
 
     .watch_item-11 .figure {
         left: 9%;
-        top: 24%
+        top: 24%;
     }
 
     .watch_item-12 .figure {
-        top: -5%
+        top: -5%;
     }
 
     .footer{
         padding-top: 34px;
     }
+
     .footer_item_title{
         font-size: 12px;
-        line-height: 18.02px;
+        line-height: 18px;
     }
 
     .footer input#email{
