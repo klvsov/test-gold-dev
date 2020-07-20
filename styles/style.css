@@ -702,7 +702,6 @@ button.btn:active{
 
     .burger{
         display: block;
-        margin-bottom: 10px;
     }
 
     .watch{
@@ -863,7 +862,7 @@ button.btn:active{
     }
 }
 
-@media(max-width:322px){
+@media (max-width: 360px){
     .covid{
         padding-left: 60px;
         padding-right: 60px;
