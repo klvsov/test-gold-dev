@@ -868,7 +868,7 @@ button.btn:active{
         padding-left: 60px;
         padding-right: 60px;
         font-size: 8px;
-        line-height: 11.9px;
+        line-height: 12px;
     }
 
     .top-menu{
@@ -892,7 +892,7 @@ button.btn:active{
     }
 
     .upcoming_title{
-        padding-top: 49px!;
+        padding-top: 49px;
         font-size: 25px;
         line-height: 40px;
     }
@@ -949,10 +949,10 @@ button.btn:active{
     }
 
     .watch_item .img_wrap{
-        padding: 4px 5px 13px
+        padding: 4px 5px 13px;
     }
 
-    .watch_item .figure {
+    .watch_item .figure{
         max-width: 80%;
     }
 
@@ -964,70 +964,70 @@ button.btn:active{
         max-width: 40%;
     }
 
-    .watch_item .abs-1 {
+    .watch_item .abs-1{
         top: 4%;
         left: -6%;
     }
 
-    .watch_item-1 .figure {
+    .watch_item-1 .figure{
         top: 11%;
         left: 6%;
     }
 
-    .watch_item-2 .figure {
+    .watch_item-2 .figure{
         left: 9%;
     }
 
-    .watch_item .abs-2 {
+    .watch_item .abs-2{
         left: 61%;
         top: -3%;
     }
 
-    .watch_item-3 .figure {
+    .watch_item-3 .figure{
         left: 22%;
         top: 5%;
     }
 
-    .watch_item-4 .figure {
+    .watch_item-4 .figure{
         left: 4%;
         top: 7%;
     }
 
-    .watch_item-5 .figure {
+    .watch_item-5 .figure{
         left: 34%;
-        top: 18%
+        top: 18%;
     }
 
-    .watch_item-6 .figure {
+    .watch_item-6 .figure{
         left: 24%;
     }
 
-    .watch_item-7 .figure {
+    .watch_item-7 .figure{
         left: 23%;
         top: 4%;
     }
 
-    .watch_item-8 .figure {
+    .watch_item-8 .figure{
         left: 4%;
         top: 7%;
     }
 
-    .watch_item-9 .figure {
+    .watch_item-9 .figure{
         left: 33%;
         top: -2%;
     }
 
-    .watch_item-10 .figure {
+    .watch_item-10 .figure{
         left: 21%;
         top: 15%;
     }
 
-    .watch_item-11 .figure {
+    .watch_item-11 .figure{
         left: 9%;
         top: 24%;
     }
 
-    .watch_item-12 .figure {
+    .watch_item-12 .figure{
         top: -5%;
     }
 
